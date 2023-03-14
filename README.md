@@ -6,7 +6,7 @@ Flutter widget for CustomScrollView. LoadMore data from net ,just like Cupertino
 
 Copy lib/LoadMoreSliver.dart to your project.
 
-<img src="demo_show.gif" height="1280" width="590"/>
+<img src="demo_show.gif" height="640" width="295"/>
 
 ## License
 LoadMoreSliver is available under the MIT license.
